@@ -14,7 +14,7 @@
     
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=SpireTM&style=flat-square&color=blue" alt=""/>
+  <img src="https://gpvc.arturio.dev/github-profile-views-counter" alt=""/>
   
 </p>
 
