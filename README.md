@@ -3,7 +3,7 @@
 
 <p align = 'center'>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SpireTM5&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=SpireTM&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"
   />
       <br><br>
   <a href="https://dsc.gg/ld-scripts/">
